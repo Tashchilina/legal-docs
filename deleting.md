@@ -1,0 +1,2 @@
+Пользователь может в любой момент удалить свой аккаунт и все связанные с ним данные прямо в приложении: Настройки -> Удалить аккаунт. Если у вас возникли трудности с удалением аккаунта, пожалуйста, отправьте запрос на адрес: adamandeve.sup@yandex.ru. Мы обработаем ваш запрос в течение 30 дней.
+The user can delete his account and all related data at any time directly in the application: Settings -> Delete account. If you have any difficulties deleting your account, please send a request to: adamandeve.sup@yandex.ru . We will process your request within 30 days.
